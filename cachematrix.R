@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## This function cretes an empty matrix
+## This function creates an empty matrix
 
 makeCacheMatrix <- function(x = matrix()) {
 		s <- NULL
